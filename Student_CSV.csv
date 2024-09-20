@@ -1,0 +1,14 @@
+"id","name","mark","sub_id","c_id"
+4,"s4",68,4,4
+5,"s4",43,3,5
+7,"s6",57,2,6
+8,"test",67,7,7
+9,"s7",25,5,1
+1,"s1",45,1,1
+2,"s2",55,2,2
+3,"s3",75,3,3
+10,"s8",95,5,10
+11,"checktriger",54,NULL,11
+12,"checktriger",54,NULL,11
+13,"checktriger",54,NULL,11
+14,"check trigger",44,NULL,12
